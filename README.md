@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ankit Raj Tiwari <br>CSE Core Student at VIT-AP<br>I'm Currently learning Java , Web Development , and Data Structures and Algorithms.<br>I also work with Python and MySql
+Hi,I'm Ankit Raj Tiwari <br>CSE Core Student at VIT-AP<br>I'm Currently learning Java , Web Development , and Data Structures and Algorithms.<br>I also work with Python and MySql<br>I'm building projects to strengthen my developement skills.
 
 
 ## 🌐 Socials:
